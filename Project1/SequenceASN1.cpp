@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include "SequenceASN1.h"
 #include <iostream>
 using namespace std;
